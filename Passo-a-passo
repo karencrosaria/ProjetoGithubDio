@@ -1,0 +1,11 @@
+Demorou pra que eu entendesse o desafio mas, deu certo no final.
+Primeiro criei o repositório no github e coloquei o título 'Livro de Receitas' no Readme.
+Clonei o projeto pra minha máquina e escrevi a receita de 'Brigadeiro'.
+Então segui os comandos:
+Git status, Git add, Git commit, Git push e o repositório foi atualizado no Github.
+Depois escrevi a receita de mousse e acrescentei os emojis pra ficar bonitinho, na página do github e commitei as alterações.
+Para que o repositório local também ficasse igual ao remoto, usei o comando Git pull e pronto.  
+    
+#contratodecomprometimento
+
+
